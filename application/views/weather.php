@@ -54,8 +54,9 @@
 				</div>
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1">
-						<p><span>DOWN YOU DOWN HERE!</span>, Hello there. :-). Welcome to the Weather App. By typing in any city 
-							of your choice in the input field above, that citie's weather status will be displayed.</p>
+						<p><span>HEY YOU DOWN HERE!</span> Hello there. :-). Welcome to the Weather App.
+							My name is Jose. The creator of this website.  
+							Type in a city of your choice to see the current weather status at that location.</p>
 					</div>
 				</div>
 			</div>
