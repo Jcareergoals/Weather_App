@@ -62,10 +62,10 @@
 				<!-- Start of instructional message section -->
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-sm-9 message">
-							<p><span>Hey There! It's Jose.</span> Thanks for visiting. This is cool simple weather application. 
-							All you have to do is type in the name of any City or State of your choice and you'll be displayed
-							the current weather status information from that location. If you enter a state, the weather information 
-							for its capitol will be displayed. <span>Go ahead and give it a try! </span></p>
+							<p><span>Hey There! It's Jose.</span> Thanks for visiting. Your looking at a cool and simple weather application
+							that will display real-time weather information for any city from around the world. All you have to do is enter the name of
+							any city, state, or country in the input field and click the 'Get Weather' button. You'll in return be displayed that location's
+							current weather status. If you happen to enter a state or country, you'll be displayed the weather status for that location's capital. <span>Go ahead and give it a try! </span></p>
 					</div>
 				</div>
 			</div>
