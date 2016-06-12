@@ -3,6 +3,7 @@
 	<head>
 		<title>Jose's Weather App</title>
 		<meta charset="UTF-8">
+		<!-- Capture screen width -->
 		<meta name='viewport' content='width=device-width, initial-scale=1'>
 		<!-- Jquery library -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> 
@@ -23,6 +24,7 @@
 	</head>
 	<body>
 		<div class="container">
+			<!-- Start of input section	 -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-10 col-sm-offset-1 header">
 					<form action='' method='post' class='form form-horizontal'>
@@ -37,6 +39,7 @@
 					</form>
 				</div>
 			</div>
+			<!-- Start of table section -->
 			<div class="row">
 				<div class="col-xs-12 col-sm-10 col-sm-offset-1 jumbotron">
 					<div class="col-xs-10 col-xs-offset-1">
@@ -56,6 +59,7 @@
 						</table>
 					</div>
 				</div>
+				<!-- Start of instructional message section -->
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-sm-9 message">
 							<p><span>Hey There! It's Jose.</span> Thanks for visiting. This is cool simple weather application. 
