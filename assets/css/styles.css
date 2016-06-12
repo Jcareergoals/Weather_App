@@ -1,15 +1,21 @@
+	* {
+		margin: 0px; 
+		padding: 0px; 
+	}
 	body {
-		background-color: silver; 
-		background-image: url('../img1.jpg');
-		background-size: auto; 
-		background-repeat: repeat-y;
+		background: url('../img1.jpg') no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover; 
+		-o-background-size: cover; 
+		background-size: cover; 
+		padding: 20px;
 	}
 	.header {
 		background: linear-gradient(rgba(250,250,250,.7), rgba(240,240,240,.8), rgba(250,250,250,.7));
 		border-radius: 10px; 
 		box-shadow: 0px 0px 4px silver; 
 		margin-top: 50px; 
-		height: 60px; 
+		min-height: 60px; 
 	}
 	.form-group { margin-top: 12px; }
 	.btn {
@@ -25,5 +31,6 @@
 	}
 	span {
 		font-size: 1.1em;
-		font-weight: bold; 
+		font-weight: bold;
 	}
+	/*.message {text-shadow: 0px 0px 1px rgb(140,140,140); color: rgb(40,40,40);}*/
